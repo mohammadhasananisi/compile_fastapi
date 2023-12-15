@@ -54,7 +54,7 @@ if __name__ == '__main__':
 
 ```bash
 pyinstaller -F main.py --clean
-
+```
 
 3. The compilation process will create a `dist` directory containing the compiled executable file. The executable file will have a name based on your application's name and the chosen output format (e.g., `main` for a single-file executable).
 
@@ -62,9 +62,9 @@ pyinstaller -F main.py --clean
 
 1. To run the compiled executable, simply execute the file. For instance, to run the executable named `main`, you would type the following command:
 
-bash
+```bash
 ./dist/main
-
+```
 
 The compiled executable will start the FastAPI application and run it as a standalone process. You can then access the application at the specified port (8000 in the example) in your web browser.
 
