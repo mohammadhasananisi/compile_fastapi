@@ -88,4 +88,3 @@ Authors
 Keep In Touch with Mohammad Hasan Anisi [Email](mailto:mohammadhasananisiqom@gmail.com) - [github](https://github.com/mohammadhasananisi)- [Telegram](https://t.me/mohammadhasananisi) - [Linkedin](https://linkedin.com/in/mohammad-hasan-anisi).
 
 Please report bugs and suggestions at the [Telegram](https://t.me/mohammadhasananisi)!
-```
