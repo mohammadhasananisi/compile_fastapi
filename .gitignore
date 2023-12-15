@@ -1,0 +1,27 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+.idea
+.idea/*
+
+./__pycache__
+./__pycache__/*
+*/__pycache__
+
+
+# misc
+.DS_Store
+
+
+
+.idea
+
+*.pyc
+*.*.pyc
+.pyc
+*/*/*.pyc
+*/*/__pycache__/*
+*/*/*/__pycache__/*
+
+
+dump.rdb
+
+.pylintrc
