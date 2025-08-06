@@ -43,7 +43,7 @@ def hello():
 ```python
 if __name__ == '__main__':
     multiprocessing.freeze_support()  # For Windows support
-    uvicorn.run(app, host="0.0.0.0", port=8000, reload=False, workers=1)
+    run(app, host="0.0.0.0", port=8000, reload=False, workers=1)
 ```
 
 ## Compiling with PyInstaller
